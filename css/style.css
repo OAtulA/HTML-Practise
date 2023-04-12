@@ -10,14 +10,16 @@
   border-top-right-radius: 15px;
   border-top-left-radius: 15px;
 
+  padding-top: 20px;
+
 }
 
 h2{
-  margin-top: 7px;
+  margin-top: 7%;
   
 }
 h3 {
-  margin-top: 7.052%;
+  margin-top: 7.01%;
 }
 
 h3 span{
@@ -28,6 +30,7 @@ h3 span{
 #green-bg{
   background: #00cc99 ;
   padding: 0px 10px;
+  
 }
 
 /* Adding the middle section */
