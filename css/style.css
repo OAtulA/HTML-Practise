@@ -53,8 +53,8 @@ h3 span{
 }
 
 .card{
-  height: 250px;
-  width: 400px;
+  height: 650px;
+  width: 800px;
 
   padding: 10px 40px;
 
@@ -62,9 +62,10 @@ h3 span{
   margin-left: auto;
   margin-right: auto;
   /* Making image circular*/
-  background: light rgb(110, 225, 250);
+  background-color: #99ffd6;
   display: flex; 
   color: black;
-  justify-content: space-between;
-
+  justify-content: space-around;
+  
+   
 }
