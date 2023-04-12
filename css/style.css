@@ -13,7 +13,7 @@
 }
 
 h2{
-  margin-top: 7%;
+  margin-top: 7px;
   
 }
 h3 {
@@ -49,7 +49,7 @@ h3 span{
 .flexImage{
     height: 50px;
   border-radius: 50%;
-  }
+}
 
 .flexContent{
   text-align: center;
