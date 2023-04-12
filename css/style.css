@@ -42,22 +42,28 @@ h3 span{
 
 /* Adding the bottom section */
 
-/*
+
 .bottom{
   height: 450px;
   text-align: center;
-  padding-top: 20px ;
+  padding: 40px ;
   color: black;
   background: white;
 
 }
 
-*/
 .card{
   height: 250px;
   width: 400px;
+
+  padding: 10px 40px;
+
+  /* To make it come in center */
+  margin-left: auto;
+  margin-right: auto;
+  /* Making image circular*/
   background: light rgb(110, 225, 250);
-  display: flex;
+  display: flex; 
   color: black;
   justify-content: space-around;
 
